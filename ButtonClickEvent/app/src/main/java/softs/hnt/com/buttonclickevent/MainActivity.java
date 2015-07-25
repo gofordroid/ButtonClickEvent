@@ -1,4 +1,4 @@
-﻿package softs.hnt.com.buttonclickevent;
+package softs.hnt.com.buttonclickevent;
 
 import android.app.Activity;
 import android.os.Bundle;
